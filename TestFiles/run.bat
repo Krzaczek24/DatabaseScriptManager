@@ -1,0 +1,1 @@
+DatabaseScriptManager.exe script.sql
